@@ -3,10 +3,11 @@ id: corne
 name: Corne
 type: shield
 url: https://github.com/salvatoreTorsello/corne-zmk
-requires: [seed-studio-nrf52850]
+requires: [seeeduino_xiao_ble]
 exposes: []
 features:
   - keys
+  - encoder
 siblings:
   - corne_left
   - corne_right
