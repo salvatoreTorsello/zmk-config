@@ -1,0 +1,12 @@
+file_format: "1"
+id: corne
+name: Corne
+type: shield
+url: https://github.com/salvatoreTorsello/corne-zmk
+requires: [seed-studio-nrf52850]
+exposes: []
+features:
+  - keys
+siblings:
+  - corne_left
+  - corne_right
