@@ -1,6 +1,6 @@
 file_format: "1"
-id: corne
-name: Corne
+id: mycorne
+name: MyCorne
 type: shield
 url: https://github.com/salvatoreTorsello/corne-zmk
 requires: [xiao_ble]
@@ -9,5 +9,5 @@ features:
   - keys
   - encoder
 siblings:
-  - corne_left
-  - corne_right
+  - mycorne_left
+  - mycorne_right
