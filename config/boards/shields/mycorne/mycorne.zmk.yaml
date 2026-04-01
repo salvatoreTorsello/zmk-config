@@ -3,7 +3,7 @@ id: mycorne
 name: MyCorne
 type: shield
 url: https://github.com/salvatoreTorsello/corne-zmk
-requires: [xiao_ble]
+requires: [seeeduino_xiao_ble]
 exposes: []
 features:
   - keys
