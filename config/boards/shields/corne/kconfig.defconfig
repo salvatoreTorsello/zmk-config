@@ -1,4 +1,4 @@
-if CORNE_LEFT
+if SHIELD_CORNE_LEFT
 
 # Name must be less than 16 characters long!
 config ZMK_KEYBOARD_NAME
@@ -9,7 +9,7 @@ config ZMK_SPLIT_ROLE_CENTRAL
 
 endif
 
-if CORNE_LEFT || CORNE_RIGHT
+if SHIELD_CORNE_LEFT || SHIELD_CORNE_RIGHT
 
 config ZMK_SPLIT
     default y
